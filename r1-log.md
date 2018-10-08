@@ -58,3 +58,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 ### Day 14: October 5, 2018 
 **Today's Progress:** Day 5 Challenge from LHL21DCC.    
 **Link to Work:** [Link to the challenge](https://coding-challenge.lighthouselabs.ca/start)
+
+### Day 15: October 6, 2018 
+**Today's Progress:** Day 6 Challenge from LHL21DCC.    
+**Link to Work:** [Link to the challenge](https://coding-challenge.lighthouselabs.ca/start)
+
