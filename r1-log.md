@@ -67,3 +67,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** Day 7 Challenge from LHL21DCC.    
 **Link to Work:** [Link to the challenge](https://coding-challenge.lighthouselabs.ca/start)
 
+### Day 18: October 8, 2018 
+**Today's Progress:** Day 8 Challenge from LHL21DCC. Finished Kata from codeSignal    
+**Thoughts**: By using `array.map()`, `array.slice()`, this will create a lot of one line solution but does this improve the readability of the codes?Or it is making it is harder to udnerstand the code?       
+**Link to Work:** [Kata](https://github.com/owenip/JS-sandbox/tree/master/kata/adjacentElementsProduct)
+
