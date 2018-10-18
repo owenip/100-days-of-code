@@ -77,4 +77,9 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Thoughts**: Array functions are really helpful for this kata. Regarding to yesterday's thought, I think there is no right or wrong answer but a suitable solution with clear logic presentation will definetly help.    
 **Link to Work:** [Kata-checkPalindrome](https://github.com/owenip/JS-sandbox/tree/master/kata/checkPalindrome)
 
+### Day 20 - 28: October 10 - 18, 2018 
+**Today's Progress:** Day 9 Challenge from LHL21DCC.   
+**Thoughts**: Coding for 1 hour is becoming a habit but commit to this log still need some work.    
+**Link to Work:** 
+
 
