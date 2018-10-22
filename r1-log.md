@@ -78,8 +78,18 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Link to Work:** [Kata-checkPalindrome](https://github.com/owenip/JS-sandbox/tree/master/kata/checkPalindrome)
 
 ### Day 20 - 28: October 10 - 18, 2018 
-**Today's Progress:** Day 9 Challenge from LHL21DCC.   
+**Today's Progress:** Day 10 - 18 Challenge from LHL21DCC.   
 **Thoughts**: Coding for 1 hour is becoming a habit but commit to this log still need some work.    
 **Link to Work:** 
 
+### Day 29: October 19, 2018 
+**Today's Progress:** Day 19 Challenge from LHL21DCC.   
+**Thoughts**: Coding for 1 hour is becoming a habit but commit to this log still need some work.    
 
+### Day 30: October 20, 2018 
+**Today's Progress:** Day 20 Challenge from LHL21DCC.   
+**Thoughts**: Time to look for new projects to work on. Or resume old project.
+
+### Day 31: October 21, 2018 
+**Today's Progress:** Day 21 Challenge from LHL21DCC.   
+**Thoughts**: YEAH!! Finish the 21 Days Challenge. Will the habit of coding surive without the challenge? :P
