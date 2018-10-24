@@ -93,3 +93,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 ### Day 31: October 21, 2018 
 **Today's Progress:** Day 21 Challenge from LHL21DCC.   
 **Thoughts**: YEAH!! Finish the 21 Days Challenge. Will the habit of coding surive without the challenge? :P
+
+### Day 32: October 23, 2018 
+**Today's Progress:** Resume my FreeCodeCamp learning. 
+**Thoughts**: 
+
