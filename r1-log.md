@@ -98,3 +98,5 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** Resume my FreeCodeCamp learning. 
 **Thoughts**: 
 
+### Day 33: October 24, 2018 
+**Today's Progress:** FreeCodeCamp Responsive Web Design - Applied Visual Design
