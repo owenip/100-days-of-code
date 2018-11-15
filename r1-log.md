@@ -103,3 +103,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 
 ### Day 34: November 04, 2018 
 **Today's Progress:** Resume Learning on FreeCodeCamp Web Design and prepare for Google Mobile Web Specialist Certification   
+
+### Day 35: November 14, 2018
+**Today's Progress:** Using imagemin with grunt-responsive-images to auotmate images resizing tasks   
+**Links:** [link](https://github.com/owenip/udacity-nanodegree-mws/commit/9ef0b7173325f823ccf30e5774e907a71c5ade7b)   
+**Thoughts:** By automating image resizing task, it's much easier to serve proper images for different screen sizes
