@@ -108,3 +108,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** Using imagemin with grunt-responsive-images to auotmate images resizing tasks   
 **Links:** [link](https://github.com/owenip/udacity-nanodegree-mws/commit/9ef0b7173325f823ccf30e5774e907a71c5ade7b)   
 **Thoughts:** By automating image resizing task, it's much easier to serve proper images for different screen sizes
+
+### Day 36: November 15, 2018
+**Today's Progress:** Add unescaping html special characters feature for a slack Bot that help searching stack overflow in chat
+**Links:** [link](https://github.com/owenip/slack-overflow/commit/7edc65da241d30e51ebf0c3a31bd6d22f6cb34bf)   
+**Thoughts:** Netlify is actually easier to use than I imagined.    
