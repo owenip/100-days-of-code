@@ -115,7 +115,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Thoughts:** Netlify is actually easier to use than I imagined.    
 
 ### Day 37 - 39: November 16 - 18, 2018
-**Today's Progress:** Participated in Gift The Code Hackathon 2018. My team has designed a solution for Boys & Girls Club of Canada ir order to promote and manage their campign "Unplug to Connect". We have designed a Web site for public to opt-in with minimal friction on landing page. For after fact data, we implement a heat map to demonstrate our vision on how the charity can make use of the collected data.
-**Links:** [link]()   
-**Thoughts:** Netlify is actually easier to use than I imagined.    
+**Today's Progress:** Participated in Gift The Code Hackathon 2018. My team has designed a solution for Boys & Girls Club of Canada ir order to promote and manage their campign "Unplug to Connect". We have designed a Web site for public to opt-in with minimal friction on landing page. For after fact data, we implement a heat map to demonstrate our vision on how the charity can make use of the collected data.   
+**Links:** [link](https://github.com/owenip/100-days-of-code/tree/master/asset/Day%2037-39)   
+**Thoughts:** Participating in Hackathons allows me to learn a lot from others, not restricting in just coding. it's more about how people think and their approaches. The solution don't need to be super complex and use all the latest technologies. A interesting and simple approach could actually win judge's heart.   
 
