@@ -33,8 +33,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Link to Work:** [Link](https://github.com/owenip/CSS3-sandbox/commit/3b79a74c45f25e7cbfa02ac4d62fd2de305fabff)
 
 ### Day 7 - 9: September 21 - 23, 2018 
-**Today's Progress:** Participated in Elvate Hackathon    
-**Thoughts:** Learnt a lot on different aspects such as idtentying the problem that we were trying to solove, communication with others and finding the suitable technologies, platform and approaches.     
+**Today's Progress:** Participated in Elevate Hackathon    
+**Thoughts:** Learnt a lot on different aspects such as identifying the problem that we were trying to solve, communication with others and finding the suitable technologies, platform and approaches.     
 **Link to Work:** N/A
 
 ### Day 10: October 1, 2018 
@@ -69,12 +69,12 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 
 ### Day 18: October 8, 2018 
 **Today's Progress:** Day 8 Challenge from LHL21DCC. Finished Kata from codeSignal    
-**Thoughts**: By using `array.map()`, `array.slice()`, this will create a lot of one line solution but does this improve the readability of the codes?Or it is making it is harder to udnerstand the code?       
+**Thoughts**: By using `array.map()`, `array.slice()`, this will create a lot of one line solution but does this improve the readability of the codes?Or it is making it is harder to understand the code?       
 **Link to Work:** [Kata](https://github.com/owenip/JS-sandbox/tree/master/kata/adjacentElementsProduct)
 
 ### Day 19: October 9, 2018 
 **Today's Progress:** Day 9 Challenge from LHL21DCC. Finished Kata checkPalindrome from codeSignal    
-**Thoughts**: Array functions are really helpful for this kata. Regarding to yesterday's thought, I think there is no right or wrong answer but a suitable solution with clear logic presentation will definetly help.    
+**Thoughts**: Array functions are really helpful for this kata. Regarding to yesterday's thought, I think there is no right or wrong answer but a suitable solution with clear logic presentation will definitely help.    
 **Link to Work:** [Kata-checkPalindrome](https://github.com/owenip/JS-sandbox/tree/master/kata/checkPalindrome)
 
 ### Day 20 - 28: October 10 - 18, 2018 
@@ -92,7 +92,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 
 ### Day 31: October 21, 2018 
 **Today's Progress:** Day 21 Challenge from LHL21DCC.   
-**Thoughts**: YEAH!! Finish the 21 Days Challenge. Will the habit of coding surive without the challenge? :P
+**Thoughts**: YEAH!! Finish the 21 Days Challenge. Will the habit of coding survive without the challenge? :P
 
 ### Day 32: October 23, 2018 
 **Today's Progress:** Resume my FreeCodeCamp learning. 
@@ -105,17 +105,17 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** Resume Learning on FreeCodeCamp Web Design and prepare for Google Mobile Web Specialist Certification   
 
 ### Day 35: November 14, 2018
-**Today's Progress:** Using imagemin with grunt-responsive-images to auotmate images resizing tasks   
+**Today's Progress:** Using imagemin with grunt-responsive-images to automate images resizing tasks   
 **Links:** [link](https://github.com/owenip/udacity-nanodegree-mws/commit/9ef0b7173325f823ccf30e5774e907a71c5ade7b)   
 **Thoughts:** By automating image resizing task, it's much easier to serve proper images for different screen sizes
 
 ### Day 36: November 15, 2018
-**Today's Progress:** Add unescaping html special characters feature for a slack Bot that help searching stack overflow in chat
+**Today's Progress:** Add un-escaping html special characters feature for a slack Bot that help searching stack overflow in chat
 **Links:** [link](https://github.com/owenip/slack-overflow/commit/7edc65da241d30e51ebf0c3a31bd6d22f6cb34bf)   
 **Thoughts:** Netlify is actually easier to use than I imagined.    
 
 ### Day 37 - 39: November 16 - 18, 2018
-**Today's Progress:** Participated in Gift The Code Hackathon 2018. My team has designed a solution for Boys & Girls Club of Canada ir order to promote and manage their campign "Unplug to Connect". We have designed a Web site for public to opt-in with minimal friction on landing page. For after fact data, we implement a heat map to demonstrate our vision on how the charity can make use of the collected data.   
+**Today's Progress:** Participated in Gift The Code Hackathon 2018. My team has designed a solution for Boys & Girls Club of Canada ir order to promote and manage their campaign "Unplug to Connect". We have designed a Web site for public to opt-in with minimal friction on landing page. For after fact data, we implement a heat map to demonstrate our vision on how the charity can make use of the collected data.   
 **Links:** [link](https://github.com/owenip/100-days-of-code/tree/master/asset/Day%2037-39)   
 **Thoughts:** Participating in Hackathons allows me to learn a lot from others, not restricting in just coding. it's more about how people think and their approaches. The solution don't need to be super complex and use all the latest technologies. A interesting and simple approach could actually win judge's heart.   
 
