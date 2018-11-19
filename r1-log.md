@@ -113,3 +113,9 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** Add unescaping html special characters feature for a slack Bot that help searching stack overflow in chat
 **Links:** [link](https://github.com/owenip/slack-overflow/commit/7edc65da241d30e51ebf0c3a31bd6d22f6cb34bf)   
 **Thoughts:** Netlify is actually easier to use than I imagined.    
+
+### Day 37 - 39: November 16 - 18, 2018
+**Today's Progress:** Participated in Gift The Code Hackathon 2018. My team has designed a solution for Boys & Girls Club of Canada ir order to promote and manage their campign "Unplug to Connect". We have designed a Web site for public to opt-in with minimal friction on landing page. For after fact data, we implement a heat map to demonstrate our vision on how the charity can make use of the collected data.
+**Links:** [link]()   
+**Thoughts:** Netlify is actually easier to use than I imagined.    
+
