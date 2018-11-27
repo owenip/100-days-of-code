@@ -119,3 +119,7 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Links:** [link](https://github.com/owenip/100-days-of-code/tree/master/asset/Day%2037-39)   
 **Thoughts:** Participating in Hackathons allows me to learn a lot from others, not restricting in just coding. it's more about how people think and their approaches. The solution don't need to be super complex and use all the latest technologies. A interesting and simple approach could actually win judge's heart.   
 
+### Day 40: November 27, 2018
+**Today's Progress:** Wrote a php a function that provides change directory (cd) function for an abstract file system. (Task interview)
+**Links:** N/A
+**Thoughts:** PHP can do proper OOP now. I hope people can change their bias on PHP.    
