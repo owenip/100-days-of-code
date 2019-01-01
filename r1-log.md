@@ -123,3 +123,8 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** Wrote a php a function that provides change directory (cd) function for an abstract file system. (Task interview)
 **Links:** N/A
 **Thoughts:** PHP can do proper OOP now. I hope people can change their bias on PHP.    
+
+### Day 41: December 31, 2018
+**Today's Progress:** Completed three PHP kata on codesignal
+**Links:** N/A
+**Thoughts:** Finally resume this challenge after moving house. I hope I can maintain this habit after starting my new job.    
