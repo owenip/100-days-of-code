@@ -128,3 +128,4 @@ The log of my #100DaysOfCode challenge. Started on September 14, Friday, 2018.
 **Today's Progress:** Completed three PHP kata on codesignal    
 **Links:** N/A
 **Thoughts:** Finally resume this challenge after moving house. I hope I can maintain this habit after starting my new job.    
+**Restarting the challenge due to login adaption period for new job and life** 
