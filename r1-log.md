@@ -16,3 +16,7 @@ The log of my #100DaysOfCode challenge. Started on November 30, Saturday, 2019.
 **Today's Progress:** Data Visualization with D3 16/29    
 **Thoughts:**   
 **Link to Work:** [FreeCodeCamp's Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)   
+### Day 4: December 4, 2019 
+**Today's Progress:** Data Visualization with D3 18/29    
+**Thoughts:**   
+**Link to Work:** [FreeCodeCamp's Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)   
