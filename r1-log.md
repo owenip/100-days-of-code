@@ -24,3 +24,7 @@ The log of my #100DaysOfCode challenge. Started on November 30, Saturday, 2019.
 **Today's Progress:** Data Visualization with D3 23/29    
 **Thoughts:**   
 **Link to Work:** [FreeCodeCamp's Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)   
+### Day 6: January 18, 2020
+**Today's Progress:** Finished Data Visualization with D3 [29/29], Starting JSON APIs and AJAX 3/10  
+**Thoughts:**   
+**Link to Work:** [FreeCodeCamp's Data Visualization with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)   
